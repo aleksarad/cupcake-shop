@@ -9,4 +9,6 @@ This is a landing page for a fictional cupcake shop. This is my first project us
 * Smooth Scroll
 * Colorful design
 
-*Note: All images are from pexels.com*
+*Note: All images are from https://www.pexels.com/*
+
+## Check it out here: https://aleksarad.github.io/cupcake-shop/ ##
