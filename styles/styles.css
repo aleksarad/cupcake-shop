@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css?family=Exo+2:100,200,300&display=swap');
+
+/* add smooth scroll and a menu page */
+body {
+    background: rgb(26, 26, 26);
+    font-family: 'Exo 2', sans-serif;
+    color: rgb(237, 237, 237) !important;
+    font-weight: 100 !important;
+}
+
+#nav-bar .navbar-brand {
+    color: rgb(255, 129, 240);
+    font-size: 2rem;
+    font-weight: 300;
+}
+
+#nav-bar {
+    font-size: 1.5rem;
+    background-color: rgba(26, 26, 26, 0.281);
+}
+
+.nav-item a {
+    color: rgb(237, 237, 237) !important;
+}
+
+.nav-item a:hover {
+    color: rgb(255, 129, 240) !important;
+}
+
+.container-fluid h2 {
+    font-weight: 100;
+    font-size: 2.2rem;
+}
+
+.purple {
+    color: rgb(141, 88, 255);
+}
+
+.pink {
+    color: rgb(255, 53, 198);
+}
+
+.blue {
+    color: rgb(98, 174, 255);
+}
+
+.orange {
+    color: #D0A439;
+}
+
+.fontweight1 {
+    font-weight: 100 !important;
+}
+
+.fontweight2 {
+    font-weight: 200 !important;
+}
+
+.fontweight3 {
+    font-weight: 300 !important;
+}
+
+.textshadow-yellow {
+    text-shadow: 0px 0px 4px rgb(221, 255, 0);
+}
+
+p {
+    font-size: 1.3rem;
+}
+
+
+@media (max-width:992px) {
+    .container-fluid h2 {
+        font-size: 1.7rem;
+    }
+}
+
+@media (max-width: 768px){
+    .container-fluid h2 {
+        font-size: 2.4rem;
+        margin-bottom: 1.1rem;
+    }
+
+    .text-container {
+        padding: 3rem 3rem;
+    }
+}
