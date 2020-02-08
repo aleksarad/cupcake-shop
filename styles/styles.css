@@ -84,4 +84,8 @@ p {
     .text-container {
         padding: 3rem 3rem;
     }
+
+    #brand {
+        text-shadow: 0px 0px 10px rgb(0, 0, 0);
+    }
 }
