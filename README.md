@@ -1,5 +1,5 @@
 # About #
-This is a landing page for a fictional cupcake shop. This is my first project using Bootstrap, and I really wanted to focus on design and responsiveness to create a simple but easy to use and enjoyable user experience.
+This is a landing page for a fictional cupcake shop. This is my first project using Bootstrap and was built in one day. My focus was on responsiveness and a fun design to create a simple but easy to use and enjoyable user experience. 
 
 **Created with:** HTML5, CSS3, BOOTSTRAP 4, JavaScript
 
